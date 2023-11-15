@@ -1,3 +1,3 @@
 fn main() {
-    println!("Welcome to my SQLite!");
+    println!("Welcome to my FreeSQLite!");
 }
